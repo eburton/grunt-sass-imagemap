@@ -1,7 +1,7 @@
 {
   "name": "grunt-sass-imagemap",
   "description": "Plugin to generate a map file containing image information from folders.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/eburton/grunt-sass-imagemap",
   "author": {
     "name": "Emmanuel Burton",
